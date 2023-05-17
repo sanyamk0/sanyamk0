@@ -149,22 +149,23 @@
 
 <h3 align="center">My Stats:</h3>
 
+<div align="center">
 <div align="left">
   <p align ="left">
     <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=sanyamk0&theme=transparent&border_radius=5" alt="sanyamk0" />
   </p>
 </div>
-
 <div align="right">
   <p align="right">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=sanyamk0&show_icons=true&locale=en&theme=nightowl" alt="sanyamk0" />
   </p>
 </div>
+</div>
 
 <div align="center">
  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=sanyamk0&theme=darkhub" alt="sanyamk0" />
+      <img align ="center" src="https://github-profile-trophy.vercel.app/?username=sanyamk0&theme=darkhub" alt="sanyamk0" />
     </a>
  </p>
 </div>
