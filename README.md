@@ -14,7 +14,7 @@
 - :telescope: Exploring New Web Technologies
 - :seedling: Learning New Skills
 
-</br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
 <p align="center">
     <h3 align="center">Connect with me:</h3>
