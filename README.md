@@ -1,5 +1,5 @@
 <h1 align="center">Hi!! Sanyam Here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">A Enthusiastic Web developer and Competitive Programmer Pre-Final Year IIIT Bhopal</h3>
+<h3 align="center">A Enthusiastic Web Developer and Competitive Programmer Pre-Final Year IIIT Bhopal</h3>
 
 </br>
 
