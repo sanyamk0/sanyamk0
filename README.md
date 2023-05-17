@@ -9,7 +9,7 @@
 </p>
 
 <!-- About Me -->
-- :footprints: I’m currently learning **Full Stack development and Data Structures and Algorithm**
+- :footprints: I’m currently learning **Full Stack Development and Data Structures and Algorithm**
 - :mailbox: How to reach me **sanyamkumar002@gmail.com**
 - :telescope: Exploring New Web Technologies
 - :seedling: Learning New Skills
