@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sanyamkumar002@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/sanyam_resume_](https://bit.ly/sanyam_resume_)
+- 📄 Know about my experiences [Resume](https://bit.ly/sanyam_resume_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
