@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanyamkumar002" target="blank"><img src="https://img.shields.io/twitter/follow/sanyamkumar002?logo=twitter&style=for-the-badge" alt="sanyamkumar002" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Apache Kafka**
+- 🌱 I’m currently learning **Docker, Apache Kafka, Google Cloud Platform**
 
 - 💬 Ask me about **React, Node, MongoDB, MySQL, Redis**
 
