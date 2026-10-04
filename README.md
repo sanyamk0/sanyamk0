@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanyam Kumar</h1>
-<h3 align="center">SDE I @Amazon | Former Intern @Meesho | IIIT Bhopal’25 | 2nd Runner Up at Meesho Internal Hackathon - HackMee 3.0! 🥉</h3>
+<h3 align="center">Software Development Engineer I @ Amazon | Java | Spring Boot | AWS | Distributed Systems | Kafka | Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamk0&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamk0" /> </p>
 
